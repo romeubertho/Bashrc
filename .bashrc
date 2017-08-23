@@ -118,6 +118,7 @@ export LS_COLORS
 #Functions
 goDocs(){
     cd /mnt/c/Users/Romeu/Documents;
+    #cd "/mnt/c/MetaTrader 5 - ibov/";
 }
 goMT5(){
     cd "/mnt/c/MetaTrader 5 XP";
